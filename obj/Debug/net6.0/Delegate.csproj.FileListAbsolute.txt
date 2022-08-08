@@ -1,0 +1,15 @@
+/Users/mac/Documents/CSharp/Delegate/bin/Debug/net6.0/Delegate
+/Users/mac/Documents/CSharp/Delegate/bin/Debug/net6.0/Delegate.deps.json
+/Users/mac/Documents/CSharp/Delegate/bin/Debug/net6.0/Delegate.runtimeconfig.json
+/Users/mac/Documents/CSharp/Delegate/bin/Debug/net6.0/Delegate.dll
+/Users/mac/Documents/CSharp/Delegate/bin/Debug/net6.0/ref/Delegate.dll
+/Users/mac/Documents/CSharp/Delegate/bin/Debug/net6.0/Delegate.pdb
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.csproj.AssemblyReference.cache
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.AssemblyInfoInputs.cache
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.AssemblyInfo.cs
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.dll
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/ref/Delegate.dll
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.pdb
+/Users/mac/Documents/CSharp/Delegate/obj/Debug/net6.0/Delegate.genruntimeconfig.cache
