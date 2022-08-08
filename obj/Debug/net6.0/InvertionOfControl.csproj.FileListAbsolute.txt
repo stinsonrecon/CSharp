@@ -1,0 +1,15 @@
+/Users/mac/Documents/CSharp/InvertionOfControl/bin/Debug/net6.0/InvertionOfControl
+/Users/mac/Documents/CSharp/InvertionOfControl/bin/Debug/net6.0/InvertionOfControl.deps.json
+/Users/mac/Documents/CSharp/InvertionOfControl/bin/Debug/net6.0/InvertionOfControl.runtimeconfig.json
+/Users/mac/Documents/CSharp/InvertionOfControl/bin/Debug/net6.0/InvertionOfControl.dll
+/Users/mac/Documents/CSharp/InvertionOfControl/bin/Debug/net6.0/ref/InvertionOfControl.dll
+/Users/mac/Documents/CSharp/InvertionOfControl/bin/Debug/net6.0/InvertionOfControl.pdb
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.csproj.AssemblyReference.cache
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.AssemblyInfoInputs.cache
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.AssemblyInfo.cs
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.dll
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/ref/InvertionOfControl.dll
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.pdb
+/Users/mac/Documents/CSharp/InvertionOfControl/obj/Debug/net6.0/InvertionOfControl.genruntimeconfig.cache
