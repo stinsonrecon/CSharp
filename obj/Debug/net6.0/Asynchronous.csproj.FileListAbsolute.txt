@@ -1,0 +1,15 @@
+/Users/mac/Documents/CSharp/Asynchronous/bin/Debug/net6.0/Asynchronous
+/Users/mac/Documents/CSharp/Asynchronous/bin/Debug/net6.0/Asynchronous.deps.json
+/Users/mac/Documents/CSharp/Asynchronous/bin/Debug/net6.0/Asynchronous.runtimeconfig.json
+/Users/mac/Documents/CSharp/Asynchronous/bin/Debug/net6.0/Asynchronous.dll
+/Users/mac/Documents/CSharp/Asynchronous/bin/Debug/net6.0/ref/Asynchronous.dll
+/Users/mac/Documents/CSharp/Asynchronous/bin/Debug/net6.0/Asynchronous.pdb
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.csproj.AssemblyReference.cache
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.AssemblyInfoInputs.cache
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.AssemblyInfo.cs
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.dll
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/ref/Asynchronous.dll
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.pdb
+/Users/mac/Documents/CSharp/Asynchronous/obj/Debug/net6.0/Asynchronous.genruntimeconfig.cache
