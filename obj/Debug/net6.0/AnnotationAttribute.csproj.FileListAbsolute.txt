@@ -1,0 +1,15 @@
+/Users/mac/Documents/CSharp/AnnotationAttribute/bin/Debug/net6.0/AnnotationAttribute
+/Users/mac/Documents/CSharp/AnnotationAttribute/bin/Debug/net6.0/AnnotationAttribute.deps.json
+/Users/mac/Documents/CSharp/AnnotationAttribute/bin/Debug/net6.0/AnnotationAttribute.runtimeconfig.json
+/Users/mac/Documents/CSharp/AnnotationAttribute/bin/Debug/net6.0/AnnotationAttribute.dll
+/Users/mac/Documents/CSharp/AnnotationAttribute/bin/Debug/net6.0/ref/AnnotationAttribute.dll
+/Users/mac/Documents/CSharp/AnnotationAttribute/bin/Debug/net6.0/AnnotationAttribute.pdb
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.csproj.AssemblyReference.cache
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.AssemblyInfoInputs.cache
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.AssemblyInfo.cs
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.dll
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/ref/AnnotationAttribute.dll
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.pdb
+/Users/mac/Documents/CSharp/AnnotationAttribute/obj/Debug/net6.0/AnnotationAttribute.genruntimeconfig.cache
